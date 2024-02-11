@@ -66,9 +66,9 @@ Assets are commonly found in the following locations:
 
 | Asset type | HTTP                                      | HTTPS                             |
 |:----------:|:-----------------------------------------:|:---------------------------------:|
-| CSS        | `<link rel="stylesheet" href="http://example.com/css/main.css">` | `<link rel="stylesheet" href="https://example.com/css/main.css">`
-| JavaScript   |  `<script type="text/javascript" src="http://example.com/js/main.js"></script>`  |   `<script type="text/javascript" src="https://example.com/js/main.js"></script>`
-| Image        |  `<a href="http://www.somesite.com"><img src="http://www.example.com/logo.jpg" alt="Logo"></a>`  | `<a href="https://www.somesite.com"><img src="https://www.example.com/logo.jpg" alt="Logo"></a>`
+| CSS        | `<link rel="stylesheet" href="http://GGSS.edu.et/css/main.css">` | `<link rel="stylesheet" href="https://ggss.edu.et/css/main.css">`
+| JavaScript   |  `<script type="text/javascript" src="http:/GGSS.edu.et/js/main.js"></script>`  |   `<script type="text/javascript" src="https://example.com/js/main.js"></script>`
+| Image        |  `<a href="http://www.somesite.com"><img src="http://www.GGSS.edu.et/logo.jpg" alt="Logo"></a>`  | `<a href="https:/GGSS.edu.et.com"><img src="https://www.GGSS.edu.et/logo.jpg" alt="Logo"></a>`
 
 ## Verifying the DNS configuration
 
